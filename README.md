@@ -37,9 +37,8 @@
 
 ## 📫 Contacto
 
-- 📧 Email: [arturo@example.com](mailto:arturo@example.com)
-- 🌐 Portafolio: [www.arturorosales.dev](https://www.arturorosales.dev)
-- 💼 LinkedIn: [linkedin.com/in/arturorosales](https://www.linkedin.com/in/arturorosales)
+- 📧 Email: [rosalesvelazquezarturo@gmail.com](mailto:rosalesvelazquezarturo@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/arturo-rosales-v](https://www.linkedin.com/in/arturo-rosales-v-b59067282/))
 
 ---
 
