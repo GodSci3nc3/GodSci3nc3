@@ -8,11 +8,11 @@
 
 ## 🚀 Proyectos Destacados
 
-- **[HealthyFocus](https://github.com/GodSci3nc3/HealthyFocus)**: Plataforma de bienestar digital para mejorar la concentración y productividad diaria.&#8203;:contentReference[oaicite:3]{index=3}
-- **[chessBattle](https://github.com/GodSci3nc3/chessBattle)**: Duelo de ajedrez entre inteligencias artificiales, demostrando cálculo y táctica avanzada.&#8203;:contentReference[oaicite:4]{index=4}
-- **[BrainyBattles](https://github.com/GodSci3nc3/BrainyBattles)**: Aplicación móvil para Android que desafía el conocimiento de los usuarios.&#8203;:contentReference[oaicite:5]{index=5}
-- **[Mymichi](https://github.com/GodSci3nc3/Mymichi)**: :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
-- **[Monstruacion](https://github.com/GodSci3nc3/Monstruacion)**: :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
+- **[HealthyFocus](https://github.com/GodSci3nc3/HealthyFocus)**: Plataforma de bienestar digital para mejorar la concentración y productividad diaria.&#8203;
+- **[chessBattle](https://github.com/GodSci3nc3/chessBattle)**: Duelo de ajedrez entre inteligencias artificiales, demostrando cálculo y táctica avanzada.&#8203;
+- **[BrainyBattles](https://github.com/GodSci3nc3/BrainyBattles)**: Aplicación móvil para Android que desafía el conocimiento de los usuarios.&#8203;
+- **[boatNavigating](https://github.com/GodSci3nc3/boatNavigating)**
+- **[Monstruacion](https://github.com/GodSci3nc3/Monstruacion)**
 
 ---
 
